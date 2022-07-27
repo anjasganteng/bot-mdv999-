@@ -1208,12 +1208,12 @@ case 'antilink':
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot/Whitehatbot-md'
+                                    url: 'https://www.instagram.com/anjasnovixd'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Owner Number👤',
-                                    phoneNumber: '+92 308-7880-256'
+                                    phoneNumber: '+6285876531805'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1248,7 +1248,7 @@ case 'antilink':
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script🔖',
-                                    url: 'https://github.com/Koleksibot/Whitehatbot-md'
+                                    url: 'https://www.instagram.com/anjasnovixd'
                                 }
                             }, {
                                 quickReplyButton: {
